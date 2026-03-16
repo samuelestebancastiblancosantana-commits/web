@@ -1,0 +1,21 @@
+div{
+    border-color: bisque;
+    border: 10px solid darkcyan;
+}
+body{
+background-color: rgb(82, 255, 114);
+background-image: linear-gradient( rgb(205, 250, 255),rgb(99, 239, 255),rgb(189, 189, 217));
+background-image: url;
+}
+H4{
+    color: rgb(4, 98, 12);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+    font-style: unset;
+    font-weight: bolder;}
+
+H2{
+    color: rgb(156, 2, 2);
+    font-family: Verdana, Geneva;
+    font-style: oblique;
+    font-weight: bolder;
+}
